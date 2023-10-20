@@ -1,0 +1,7 @@
+com\inetum\demo\SmokeTest.class
+com\inetum\demo\aceptacion\DatoControllerTest.class
+com\inetum\demo\AplicacionrestApplicationTests.class
+com\inetum\demo\HttpRequestTest.class
+com\inetum\demo\integration\AlumnoRepositoryIntegrationTest.class
+com\inetum\demo\TestDemoApplication.class
+com\inetum\demo\integration\AlumnoServiceTest.class

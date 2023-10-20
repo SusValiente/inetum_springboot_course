@@ -1,0 +1,14 @@
+com\inetum\demo\controllers\DatoController.class
+com\inetum\demo\DemoApplication.class
+com\inetum\demo\services\AlumnoServiceImp.class
+com\inetum\demo\services\AlumnoService.class
+com\inetum\demo\dtos\AlumnoDTO.class
+com\inetum\demo\advices\ControllerExceptionHandler.class
+com\inetum\demo\domain\Address.class
+com\inetum\demo\domain\Alumno.class
+com\inetum\demo\controllers\AlumnoRepositoryController.class
+com\inetum\demo\dtos\Dato.class
+com\inetum\demo\domain\Phone.class
+com\inetum\demo\repositories\AlumnoRepository.class
+com\inetum\demo\controllers\MiRestController.class
+com\inetum\demo\dtos\ErrorMessage.class
